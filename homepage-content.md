@@ -5,130 +5,149 @@
 
 ## Meta
 
-**Title:** Twiching · Cloud Phone, Voice & SMS for Modern Businesses
-**Description:** Phone numbers, voice, and SMS on one platform. Starter from $9.99/user. 14-day free trial. Built for modern business.
+**Title:** Twiching · One Platform for Business Phone, Voice & SMS
+
+**Description:** Stop managing three vendors. Twiching brings phone numbers, voice, and messaging into one cloud platform. 14-day free trial — no commitment.
 
 ---
 
 ## Hero
 
-**H1:** Your business phone. Built for how you actually work.
+**H1:** One platform. Every call, number, and message your business needs.
 
 **Subheadline:**
-Phone numbers, voice, SMS, and AI — on one platform. Starter from $9.99/user.
+Virtual numbers, voice termination, SIP trunking, and bulk SMS — all connected. All in one account.
 
 **CTAs:** `Start Free Trial →` &nbsp;·&nbsp; `Contact Us →`
 
 **Trust Bar:**
-`STARTER $9.99` &nbsp;·&nbsp; `14-DAY FREE TRIAL` &nbsp;·&nbsp; `STIR/SHAKEN` &nbsp;·&nbsp; `HIPAA-READY` &nbsp;·&nbsp; `99.999% UPTIME`
+`14-DAY FREE TRIAL` &nbsp;·&nbsp; `STIR/SHAKEN CERTIFIED` &nbsp;·&nbsp; `HIPAA-READY` &nbsp;·&nbsp; `99.999% UPTIME` &nbsp;·&nbsp; `190+ COUNTRIES`
 
 ---
 
-## Section 1 — The Problem (2–3 lines)
+## Section 1 — The Problem
 
-Your competitor picked up that call. You didn't — because your number looked unfamiliar.
+**H2:** Most businesses are paying three vendors to do one job.
 
-Local area codes get answered 4× more than unknown prefixes. That's the gap Twiching closes.
+One provider for numbers. Another for voice. A third for SMS. Three invoices. Three support teams. Three things to break at 9am on a Monday.
+
+Twiching replaces all of it. Every conversation channel — phone numbers, calls, and messaging — runs from a single dashboard, under one account.
 
 ---
 
 ## Section 2 — Three Pillars
 
-**H2:** One platform. Three pillars. One bill.
+**H2:** Three layers. One login.
 
-| Pillar | What It Does |
-|---|---|
-| 📞 **Phone Numbers** | Virtual, local, vanity, business & second numbers |
-| 🔊 **Voice Services** | Call termination, SIP trunking, wholesale VoIP, contact center |
-| 💬 **Messaging** | SMS gateway, bulk SMS, developer SMS API |
+### 📞 Phone Numbers
+Get the right number for every situation. Virtual numbers for national reach. Local numbers that match your target market's area code. Vanity numbers your customers actually remember. Business lines for your team. Second numbers when your personal mobile shouldn't be your business card.
 
-> Most businesses juggle three vendors for this. Twiching is one account, one dashboard, one invoice.
+→ Five number types. All available in 190+ countries.
 
----
-
-## Section 3 — Phone Numbers Snapshot
-
-**H2:** Five number types. One provider.
-
-- **Virtual** — nationwide reach without a physical office
-- **Local** — area-code presence in any city or region
-- **Vanity** — memorable brand numbers (1-800-YOUR-BRAND)
-- **Business** — dedicated professional lines
-- **Second Number** — work and personal, one phone
-
-Available in 190+ countries.
-
-`See phone numbers →`
+`Explore Phone Numbers →`
 
 ---
 
-## Section 4 — Voice Snapshot
+### 🔊 Voice Services
+Calls routed through carrier-grade infrastructure with STIR/SHAKEN attestation on every outbound — so your dials don't get flagged as spam and your inbound actually rings. SIP trunking, voice termination, wholesale VoIP, and contact center tools all live in the same platform as your numbers.
 
-**H2:** Calls that actually connect.
+→ No dropped paths. No carrier finger-pointing. One provider owns the whole call.
 
-STIR/SHAKEN attestation on every outbound. Carrier-grade routing. No spam flags, no dropped paths.
-
-`Explore voice services →`
-
----
-
-## Section 5 — Messaging Snapshot
-
-**H2:** Messaging that scales with you.
-
-From appointment reminders to 500-seat campaigns — one platform handles both.
-
-- SMS Gateway — multi-channel from one dashboard
-- Bulk SMS — campaign-grade outreach
-- SMS API — developer integration in under a day
-
-`Explore messaging →`
+`Explore Voice Services →`
 
 ---
 
-## Section 6 — Pricing Table
+### 💬 Messaging
+Whether it's a single appointment reminder or a 10,000-contact campaign, the same platform handles it. SMS Gateway for multi-channel delivery, Bulk SMS for outreach at scale, and an SMS API that most developers have running in production within a day.
 
-**H2:** Plans that fit your stage.
+→ Send from your business number. Track delivery. Scale without switching tools.
 
-| | Starter | Professional | Enterprise |
-|---|---|---|---|
-| **Price** | $9.99/user/mo | $19.99/user/mo | $29.99/user/mo |
-| **Best For** | Freelancers, small teams | Growing businesses | Contact centers, large teams |
-| Domestic Calling | Unlimited | Unlimited | Unlimited |
-| SMS & MMS | ✓ | ✓ | ✓ |
-| Omnichannel | — | ✓ | ✓ |
-| Call Recording | — | — | ✓ |
-| AI Receptionist | — | — | ✓ |
-
-*Starter: up to 5,000 domestic calling minutes/month. See Terms.*
-
-`Start Free Trial →` &nbsp;·&nbsp; `Contact Us →`
+`Explore Messaging →`
 
 ---
 
-## Section 7 — Trust / FAQ (Minimal)
+## Section 3 — Why Twiching
+
+**H2:** What makes it different.
+
+| | Others | Twiching |
+|---|---|---|
+| Numbers + Voice + SMS | Separate vendors | One platform |
+| Vanity numbers | Rare, expensive | Included |
+| Second number (personal privacy) | Almost never | Built-in |
+| SMS API for developers | Add-on | Native |
+| Singapore HQ — APAC-trusted base | No | Yes |
+| Support queue | Multiple | One team |
+
+---
+
+## Section 4 — Social Proof Placeholder
+
+**H2:** Trusted by teams that can't afford downtime.
+
+> *"We had three vendors for numbers, voice, and SMS. Twiching replaced all three. Setup took an afternoon."*
+> — Operations Lead, SaaS Company
+
+> *"Local numbers. More pickups. That's the whole story."*
+> — Sales Manager, Regional Real Estate Firm
+
+*(Insert real testimonials when available)*
+
+---
+
+## Section 5 — Compliance & Trust
+
+**H2:** Built for regulated industries too.
+
+- STIR/SHAKEN certified — outbound calls pass spam filters
+- HIPAA-aligned — safe for healthcare communications
+- SOC 2 audited (Enterprise tier)
+- compliance & TCR registration handled on your behalf
+- GDPR-aware infrastructure from Singapore HQ
+
+Whether you're in healthcare, finance, real estate, or SaaS — the platform is built to meet the bar.
+
+---
+
+## Section 6 — Pricing CTA (No Numbers)
+
+**H2:** Simple plans. No hidden fees.
+
+Starter plans designed for small teams. Professional for growth. Enterprise for scale. Every plan includes your numbers, voice, and messaging — no piecing it together.
+
+`See Pricing →`
+
+---
+
+## Section 7 — FAQ
 
 **H2:** Quick answers.
 
-**Q: What's in the free trial?**
-3 users, one number each, unlimited internal calls. External calls & SMS activate after KYC.
+**Q: What's in the 14-day free trial?**
+Up to 3 users, one number per user, unlimited internal calls, video conferencing, and team messaging. External calls and SMS activate after compliance verification.
 
-**Q: Can I keep my existing number?**
-Yes. Porting supported — domestic transfers in 5–10 business days.
+**Q: Can I keep my existing phone number?**
+Yes. Number porting is supported. Domestic transfers typically complete in 5–10 business days.
 
-**Q: Is Twiching compliant?**
-STIR/SHAKEN certified · HIPAA-aligned · SOC 2 audited (Enterprise) · KYC/TCR handled.
+**Q: Do I need separate tools for numbers, voice, and SMS?**
+No. Every Twiching plan includes all three pillars — phone numbers, voice services, and messaging — from day one.
+
+**Q: What industries does Twiching support?**
+Healthcare, finance, real estate, SaaS, retail, logistics, and more. Compliance tools are built in, not bolted on.
+
+**Q: Is there a long-term contract?**
+No contracts. Cancel anytime.
 
 ---
 
 ## Final CTA
 
-**H2:** Try it free for 14 days.
+**H2:** Your whole phone stack. One free trial.
 
-No commitment. No setup fees. Cancel anytime.
+Start today — no setup fees, no contracts, no vendor juggling.
 
 `Start Free Trial →` &nbsp;·&nbsp; `Talk to Sales →`
 
 ---
 
-*Singapore HQ &nbsp;·&nbsp; Virtual + Local + Vanity Numbers &nbsp;·&nbsp; Global Voice Termination &nbsp;·&nbsp; Bulk SMS &nbsp;·&nbsp; SMS API*
+*Singapore HQ &nbsp;·&nbsp; 190+ Countries &nbsp;·&nbsp; Virtual + Local + Vanity Numbers &nbsp;·&nbsp; Carrier-Grade Voice &nbsp;·&nbsp; Bulk SMS &nbsp;·&nbsp; SMS API*

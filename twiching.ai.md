@@ -9,7 +9,7 @@
 - **Plans:** Starter **$7.99** | Professional **$19.99** | Enterprise **$29.99** | Custom
 - **Market priority:** USA-first (90% of business). International = "also available."
 - **Mention discipline:** Explicit USA references are rare — use "domestic," "nationwide," "your market," or let it stay implicit.
-- **Trial:** 14 days, up to 3 users, KYC required to activate calling/SMS
+- **Trial:** 14 days, up to 3 users, compliance required to activate calling/SMS
 - **Pricing details:** Homepage + Pricing page only (not repeated per page)
 - **5,000 domestic calling minutes/month:** Starter plan only. Detailed in T&C.
 - **Savings angle:** Show dollar savings vs. alternatives on every page
@@ -58,7 +58,7 @@ Each page ends with a "Next step" linking to the next funnel stage.
 **Intent:** Establish platform value, route to hubs or pricing
 
 **Meta Title:** Twiching · Cloud Phone, Voice & SMS for Modern Businesses
-**Meta Description:** Phone numbers, voice, and SMS on one platform. Starter from $9.99. 14-day free trial. Built for American business.
+**Meta Description:** Phone numbers, voice, and SMS on one platform. Starter from $7.99. 14-day free trial. Built for American business.
 
 ---
 
@@ -66,10 +66,10 @@ Each page ends with a "Next step" linking to the next funnel stage.
 ## Your business phone. Built for how you actually work.
 
 **Sub-headline:**
-*Phone numbers, voice, SMS, and AI on one platform. Starter from $9.99/user. 14-day free trial.*
+*Phone numbers, voice, SMS, and AI on one platform. Starter from $7.99/user. 14-day free trial.*
 
 **Trust bar:**
-STARTER $9.99 · 14-DAY FREE TRIAL · STIR/SHAKEN · HIPAA-READY · 99.999% UPTIME
+STARTER $7.99 · 14-DAY FREE TRIAL · STIR/SHAKEN · HIPAA-READY · 99.999% UPTIME
 
 ---
 
@@ -149,7 +149,7 @@ From a solo practice sending appointment reminders to a 500-seat operation runni
 
 | | Starter | Professional | Enterprise |
 |---|---|---|---|
-| Price | $9.99/user/mo | $19.99/user/mo | $29.99/user/mo |
+| Price | $7.99/user/mo | $19.99/user/mo | $29.99/user/mo |
 | Best For | Freelancers, small teams | Growing businesses | Contact centers, large teams |
 | Domestic Calling | Unlimited | Unlimited | Unlimited |
 | SMS & MMS | Unlimited | Unlimited | Unlimited |
@@ -168,7 +168,7 @@ From a solo practice sending appointment reminders to a 500-seat operation runni
 **H2: FAQ**
 
 **Q: What's included in the 14-day free trial?**
-Up to 3 users, one phone number per user, unlimited internal calls, video conferencing, and team messaging. External calls and SMS activate after KYC verification.
+Up to 3 users, one phone number per user, unlimited internal calls, video conferencing, and team messaging. External calls and SMS activate after compliance verification.
 
 **Q: Do I need a credit card to start?**
 Yes. Card required at sign-up. No charges during the 14-day trial window.
@@ -180,7 +180,7 @@ Yes. Porting is supported. Domestic ports typically complete in 5-10 business da
 Starter covers core business phone and SMS. Professional adds omnichannel and supervisor tools. Enterprise adds call recording, AI, and auto dialers. See [pricing](/pricing).
 
 **Q: Is Twiching compliant?**
-STIR/SHAKEN certified, HIPAA-aligned, SOC 2 audited (Enterprise). KYC/TCR registration handled for calls and SMS.
+STIR/SHAKEN certified, HIPAA-aligned, SOC 2 audited (Enterprise). compliance/TCR registration handled for calls and SMS.
 
 ---
 
@@ -197,7 +197,7 @@ STIR/SHAKEN certified, HIPAA-aligned, SOC 2 audited (Enterprise). KYC/TCR regist
 **Intent:** Route visitors to the right number type
 
 **Meta Title:** Business Phone Numbers · Virtual, Local, Vanity & More | Twiching
-**Meta Description:** Five number types in one account. Virtual, local, vanity, business, second numbers. Starter from $9.99.
+**Meta Description:** Five number types in one account. Virtual, local, vanity, business, second numbers. 14-day free trial.
 
 ---
 
@@ -575,7 +575,7 @@ Yes. Same routing, SMS, and features.
 **Intent:** Convert solo professionals and SMB owners
 
 **Meta Title:** Business Phone Numbers · Professional Lines | Twiching
-**Meta Description:** Dedicated business phone numbers that separate work from personal. Starter from $9.99. 14-day free trial.
+**Meta Description:** Dedicated business phone numbers that separate work from personal. 14-day free trial. 14-day free trial.
 
 ---
 
@@ -622,11 +622,11 @@ A business phone number isn't about appearing more professional. It's about prot
 
 ---
 
-**H2: The $9.99 math**
+**H2: The value breakdown**
 
 A traditional business line through a legacy carrier runs $40–$80/month — plus installation, a desk phone, and a multi-year contract.
 
-A Twiching business number on Starter: **$9.99/user/month**. No hardware. No contract.
+A Twiching business number on Starter: ****. No hardware. No contract.
 
 Annual saving for a solo practice: **$360–$840**.
 
@@ -1105,7 +1105,7 @@ Whether you're 10 seats or 100, infrastructure scales without requiring a new pl
 
 **H2: What it saves**
 
-Enterprise contact center platforms routinely run $125–$200/user/month. Twiching Enterprise at **$29.99/user/month** includes contact center features, call recording, AI receptionist, and auto dialers.
+Enterprise contact center platforms routinely run $125– Twiching Enterprise at **** includes contact center features, call recording, AI receptionist, and auto dialers.
 
 For a 50-seat operation: **$56,000+/year saved**.
 
@@ -1274,8 +1274,8 @@ Yes. Where carrier policy allows.
 **Funnel Tier:** 4 — Decision
 **Intent:** Convert to trial signup
 
-**Meta Title:** Twiching Pricing · Starter $9.99 | Professional $19.99 | Enterprise $29.99
-**Meta Description:** Three plans. 14-day free trial. Starter from $9.99. Virtual numbers, voice, omnichannel, AI. Credit card required.
+**Meta Title:** Twiching Pricing · Starter $7.99 | Professional $19.99 | Enterprise $29.99
+**Meta Description:** Three plans. 14-day free trial. Starter from $7.99. Virtual numbers, voice, omnichannel, AI. Credit card required.
 
 ---
 
@@ -1286,7 +1286,7 @@ Yes. Where carrier policy allows.
 *Three plans. One free trial. Everything your business needs to communicate professionally.*
 
 **Trust bar:**
-STARTER $9.99 · PROFESSIONAL $19.99 · ENTERPRISE $29.99 · 14-DAY TRIAL · NO SETUP FEES
+STARTER $7.99 · PROFESSIONAL $19.99 · ENTERPRISE $29.99 · 14-DAY TRIAL · NO SETUP FEES
 
 ---
 
@@ -1313,16 +1313,16 @@ Every plan starts with a 14-day free trial. Up to 3 users. One phone number per 
 - Login: up to 2 desktop + 1 phone per user
 
 **Trial limits to know:**
-- **No external calls or SMS during trial** — KYC verification required to activate
+- **No external calls or SMS during trial** — compliance verification required to activate
 - Credit card required at sign-up
 - Auto-converts to paid plan after 14 days (the plan selected at signup)
 - Cancel anytime before trial ends — redirected to plans page
 
-*KYC keeps the platform compliant with carrier rules and protects your number reputation from day one.*
+*compliance keeps the platform compliant with carrier rules and protects your number reputation from day one.*
 
 ---
 
-**H2: Starter — $9.99/user/month**
+**H2: Starter — $7.99/user/month**
 
 For freelancers, consultants, and small teams who need a professional phone without complexity.
 
@@ -1365,7 +1365,7 @@ For growing businesses that need omnichannel customer engagement, CRM sync, and 
 - Custom music on hold
 - Unlimited storage
 - SLA (99.999% uptime)
-- KYC / TCR registration for calls and SMS
+- compliance / TCR registration for calls and SMS
 - Email + Chat support
 
 ---
@@ -1413,7 +1413,7 @@ For operations that need:
 | Call recording + QA | $15–$30/user |
 | AI receptionist service | $50–$150 |
 | **Typical Stack Total** | **$145–$385/month** |
-| **Twiching Starter** | **$9.99/month** |
+| **Twiching Starter** | **$7.99/month** |
 | **Twiching Professional** | **$19.99/month** |
 | **Twiching Enterprise** | **$29.99/month** |
 
@@ -1430,7 +1430,7 @@ No. On any plan.
 Yes. Card required at sign-up. No charges during the 14 days.
 
 **Q: Can I make calls during the trial?**
-Internal calls (within the platform) — yes, immediately. External calls and SMS — after KYC verification.
+Internal calls (within the platform) — yes, immediately. External calls and SMS — after compliance verification.
 
 **Q: What happens after the trial?**
 Your account converts to the plan you selected at trial start. Cancel anytime before the trial ends to avoid charges.
@@ -1443,7 +1443,7 @@ Overage at published per-minute rates. Professional and Enterprise include unlim
 
 ---
 
-**[ Start Free Trial → Starter $9.99 ](/signup?plan=starter)** · **[ Professional $19.99 ](/signup?plan=professional)** · **[ Enterprise $29.99 ](/signup?plan=enterprise)**
+**[ Start Free Trial → Starter $7.99 ](/signup?plan=starter)** · **[ Professional $19.99 ](/signup?plan=professional)** · **[ Enterprise $29.99 ](/signup?plan=enterprise)**
 
 *14-day free trial · Credit card required · Compliance with applicable regulations required*
 
@@ -1542,7 +1542,7 @@ No minimums. Scale from one message to millions.
 **Intent:** Capture buyers running SMS campaigns
 
 **Meta Title:** Bulk SMS · Large-Scale Business SMS Campaigns | Twiching
-**Meta Description:** Send thousands of SMS in one campaign. TCR-registered, high deliverability. Professional plan from $19.99.
+**Meta Description:** Send thousands of SMS in one campaign. TCR-registered, high deliverability. 14-day free trial.
 
 ---
 
@@ -1629,7 +1629,7 @@ Yes. Preview, test send, then approve.
 **Intent:** Capture developers and technical buyers
 
 **Meta Title:** SMS API · Developer-Friendly Business Messaging | Twiching
-**Meta Description:** REST SMS API with webhooks, two-way messaging, and delivery receipts. Professional plan from $19.99.
+**Meta Description:** REST SMS API with webhooks, two-way messaging, and delivery receipts. 14-day free trial.
 
 ---
 
@@ -1711,7 +1711,7 @@ Most messages deliver in under 5 seconds domestically. International delivery va
 **Intent:** Capture cloud phone system buyers
 
 **Meta Title:** Cloud Calling Platform · Business Phone from Any Device | Twiching
-**Meta Description:** Cloud-based business calling on any device. No hardware. STIR/SHAKEN ready. Starter from $9.99.
+**Meta Description:** Cloud-based business calling on any device. No hardware. STIR/SHAKEN ready. 14-day free trial.
 
 ---
 
@@ -1760,7 +1760,7 @@ Outbound calls show your business number. Not a personal mobile.
 
 **H2: What it saves**
 
-A traditional on-premise PBX: $500–$2,000 per user to set up, plus maintenance. Cloud calling on Twiching Starter: **$9.99/user/month** — no hardware, no maintenance.
+A traditional on-premise PBX: $500–$2,000 per user to set up, plus maintenance. Cloud calling on Twiching Starter: **** — no hardware, no maintenance.
 
 10-person team, year 1 saving: **$15,000+**.
 
@@ -1792,7 +1792,7 @@ Carrier-grade routing. Quality matches or exceeds traditional lines.
 **Intent:** Capture buyers needing WhatsApp, Instagram, Facebook messaging
 
 **Meta Title:** Omnichannel Messaging · WhatsApp, Instagram, Facebook | Twiching
-**Meta Description:** Manage WhatsApp, Instagram, Facebook, Telegram, Viber, and more from one platform. Professional plan from $19.99.
+**Meta Description:** Manage WhatsApp, Instagram, Facebook, Telegram, Viber, and more from one platform. 14-day free trial.
 
 ---
 
@@ -1841,7 +1841,7 @@ Twiching handles voice and messaging as one stack.
 
 **H2: Pricing**
 
-Omnichannel available on Professional ($19.99) and Enterprise ($29.99).
+Omnichannel available on Professional plan and Enterprise plan.
 
 ---
 
@@ -2198,9 +2198,9 @@ Retention periods configurable to match compliance requirements.
 
 **H2: Pricing**
 
-Call recording is an Enterprise plan feature ($29.99/user/month).
+Call recording is an Enterprise plan feature ().
 
-Standalone call recording tools typically cost $15–$30/user/month. Enterprise includes recording, AI, auto dialers, and omnichannel for one price.
+Standalone call recording tools typically cost $15– Enterprise includes recording, AI, auto dialers, and omnichannel for one price.
 
 ---
 
@@ -2325,7 +2325,7 @@ Conversation intelligence turns those recordings into structured data.
 
 **H2: Pricing**
 
-AI Call Tags and real-time sentiment analysis included on Professional ($19.99). Advanced Business Analytics Pro on Enterprise ($29.99).
+AI Call Tags and real-time sentiment analysis included on Professional plan. Advanced Business Analytics Pro on Enterprise plan.
 
 Standalone conversation intelligence tools (Gong, Chorus) typically cost $1,500/user/year. Twiching Professional at $240/user/year includes this plus everything else.
 
@@ -2397,7 +2397,7 @@ New reps take 6-12 months to match senior performance without coaching. Whisper 
 
 **H2: Pricing**
 
-Supervisor tools included on Professional ($19.99) and Enterprise ($29.99).
+Supervisor tools included on Professional plan and Enterprise plan.
 
 ---
 
@@ -2471,7 +2471,7 @@ The platform is designed with data security at the infrastructure level. BAA sig
 
 - Third-party answering service: $200–$500/month
 - Part-time receptionist: $1,500–$2,500/month
-- **Twiching Starter with auto-attendant routing: $9.99/user/month**
+- **Twiching Starter with auto-attendant routing: **
 
 Annual saving on receptionist coverage alone: **$18,000+**.
 
@@ -2514,7 +2514,7 @@ Yes. From your practice number.
 *Call recording, compliant routing, and secure messaging for financial teams.*
 
 **Trust bar:**
-CALL RECORDING · SOC 2 · KYC/TCR REGISTERED · ENTERPRISE PLAN
+CALL RECORDING · SOC 2 · compliance/TCR REGISTERED · ENTERPRISE PLAN
 
 ---
 
@@ -2551,7 +2551,7 @@ Client disputes in financial services often hinge on what was said in a sales or
 
 **H2: Saving on compliance infrastructure**
 
-Dedicated compliance call recording solutions run $50-$150/user/month. Twiching Enterprise at $29.99 includes call recording, AI, auto dialers, and contact center.
+Dedicated compliance call recording solutions run $50- Twiching Enterprise plan includes call recording, AI, auto dialers, and contact center.
 
 For a 20-advisor firm: annual saving **$4,800-$28,800**.
 
@@ -2639,8 +2639,8 @@ A bulk SMS platform at Twiching's rates costs a fraction of that.
 
 **H2: Pricing recommendation**
 
-- **Professional ($19.99)** — omnichannel (WhatsApp, Instagram, Facebook) + bulk SMS + CRM sync
-- **Enterprise ($29.99)** — adds AI chatbot for tier-1 support deflection
+- **Professional plan** — omnichannel (WhatsApp, Instagram, Facebook) + bulk SMS + CRM sync
+- **Enterprise plan** — adds AI chatbot for tier-1 support deflection
 
 ---
 
@@ -2673,7 +2673,7 @@ Via Zapier on Professional+. Direct integrations via API.
 **Intent:** Convert SaaS and technology decision-makers
 
 **Meta Title:** Cloud Communications for SaaS & Tech Companies | Twiching
-**Meta Description:** SMS API, virtual numbers, voice infrastructure for SaaS teams. Developer-first. Starter from $9.99.
+**Meta Description:** SMS API, virtual numbers, voice infrastructure for SaaS teams. Developer-first. 14-day free trial.
 
 ---
 
@@ -2724,8 +2724,8 @@ SaaS companies that operate globally need infrastructure that scales with market
 
 **H2: Pricing for SaaS teams**
 
-- **Professional ($19.99)** — full SMS API, CRM sync (HubSpot, Salesforce), supervisor tools
-- **Enterprise ($29.99)** — adds SOC 2 report access for security-conscious customers and advanced analytics
+- **Professional plan** — full SMS API, CRM sync (HubSpot, Salesforce), supervisor tools
+- **Enterprise plan** — adds SOC 2 report access for security-conscious customers and advanced analytics
 
 ---
 
@@ -2823,7 +2823,7 @@ Yes.
 **Intent:** Convert sales leaders and revenue operations
 
 **Meta Title:** Cloud Communications for Sales Teams | Twiching
-**Meta Description:** Virtual numbers, call recording, and CRM sync for outbound sales. Starter from $9.99.
+**Meta Description:** Virtual numbers, call recording, and CRM sync for outbound sales. 14-day free trial.
 
 ---
 
@@ -2881,8 +2881,8 @@ For a 10-rep team, that's roughly **84 hours/week recovered** — equivalent to 
 
 **H2: Recommended plan**
 
-Professional ($19.99) — CRM integrations, supervisor tools, smart ring strategies.
-Enterprise ($29.99) — adds auto dialers (Preview, Progressive, Predictive) for high-volume outbound.
+Professional plan — CRM integrations, supervisor tools, smart ring strategies.
+Enterprise plan — adds auto dialers (Preview, Progressive, Predictive) for high-volume outbound.
 
 ---
 
@@ -2915,7 +2915,7 @@ Enterprise plan — Preview, Progressive, Predictive, and Agentless.
 **Intent:** Convert customer support leaders
 
 **Meta Title:** Cloud Communications for Customer Support | Twiching
-**Meta Description:** Virtual numbers, SMS, and omnichannel routing for customer support teams. Professional plan from $19.99.
+**Meta Description:** Virtual numbers, SMS, and omnichannel routing for customer support teams. 14-day free trial.
 
 ---
 
@@ -2963,8 +2963,8 @@ A well-designed SMS channel can deflect 20-30% of inbound call volume. For a 20-
 
 **H2: Recommended plan**
 
-Professional ($19.99) — omnichannel, supervisor tools, CRM sync.
-Enterprise ($29.99) — adds AI Receptionist for tier-1 deflection and call recording.
+Professional plan — omnichannel, supervisor tools, CRM sync.
+Enterprise plan — adds AI Receptionist for tier-1 deflection and call recording.
 
 ---
 
@@ -2994,7 +2994,7 @@ Yes. Whisper coaching on Professional+.
 **Intent:** Convert remote/distributed team leaders
 
 **Meta Title:** Cloud Phone System for Remote Teams | Twiching
-**Meta Description:** One business number that works on any device. Built for remote and distributed teams. Starter from $9.99.
+**Meta Description:** One business number that works on any device. Built for remote and distributed teams. 14-day free trial.
 
 ---
 
@@ -3037,7 +3037,7 @@ That's what a modern remote phone system looks like.
 
 Legacy phone systems were designed for offices. They charge per physical line, per physical location, and require on-site hardware.
 
-Twiching Starter at **$9.99/user/month** works from any device. A 10-person remote team saves thousands/year compared to traditional PBX.
+Twiching Starter at **** works from any device. A 10-person remote team saves thousands/year compared to traditional PBX.
 
 ---
 
@@ -3067,7 +3067,7 @@ Yes. Each team member can have their own local number.
 **Intent:** Convert small business owners
 
 **Meta Title:** Business Phone for Small Business Owners | Twiching
-**Meta Description:** Professional phone and SMS for small business. From $9.99/month. No contract. 14-day free trial.
+**Meta Description:** Professional phone and SMS for small business. /month. No contract. 14-day free trial.
 
 ---
 
@@ -3075,10 +3075,10 @@ Yes. Each team member can have their own local number.
 ## A professional phone number your business actually deserves.
 
 **Sub-headline:**
-*Business phone and SMS for small business owners. From $9.99. No contract.*
+*Business phone and SMS for small business owners. No contract.*
 
 **Trust bar:**
-NO CONTRACT · FROM $9.99 · QUICK SETUP · 14-DAY TRIAL
+NO CONTRACT · FROM [see pricing] · QUICK SETUP · 14-DAY TRIAL
 
 ---
 
@@ -3096,7 +3096,7 @@ A business phone number isn't a luxury for a small business. It's the boundary t
 
 ---
 
-**H2: What $9.99/month gets a small business**
+**H2: What [see pricing]/month gets a small business**
 
 - A dedicated business phone number (virtual or local)
 - Inbound and outbound calling (unlimited domestic)
@@ -3111,7 +3111,7 @@ A business phone number isn't a luxury for a small business. It's the boundary t
 
 The ability to set "do not disturb" on the business line after 6 PM — without silencing their personal phone. The ability to text clients from a professional number. The ability to see, at a glance, whether an incoming call is business or personal.
 
-All three fit in the $9.99/month plan.
+All three fit in the [see pricing]/month plan.
 
 ---
 
@@ -3238,7 +3238,7 @@ Yes. Enterprise plans include priority support. 500+ seat deployments get dedica
 **Intent:** Convert freelancers and solo professionals
 
 **Meta Title:** Business Phone Number for Freelancers | Twiching
-**Meta Description:** A professional number that isn't your personal mobile. From $9.99/month. 14-day free trial.
+**Meta Description:** A professional number that isn't your personal mobile. /month. 14-day free trial.
 
 ---
 
@@ -3246,10 +3246,10 @@ Yes. Enterprise plans include priority support. 500+ seat deployments get dedica
 ## Your clients deserve a professional number. So do you.
 
 **Sub-headline:**
-*A business phone number for freelancers. Separate. Professional. $9.99/month.*
+*A business phone number for freelancers. Separate. Professional. [see pricing]/month.*
 
 **Trust bar:**
-SECOND NUMBER · BUSINESS SMS · CALL FORWARDING · FROM $9.99
+SECOND NUMBER · BUSINESS SMS · CALL FORWARDING · FROM [see pricing]
 
 ---
 
@@ -3263,7 +3263,7 @@ They called the number on his website. He answered with "hello?" — the same wa
 
 It wasn't disqualifying. But it was a moment.
 
-A business phone number costs $9.99/month. It answers differently. It has a voicemail that says your name and your business name. It lets you silence work calls after hours without silencing your personal phone.
+A business phone number costs [see pricing]/month. It answers differently. It has a voicemail that says your name and your business name. It lets you silence work calls after hours without silencing your personal phone.
 
 It's not a pretense. It's professional infrastructure.
 
@@ -3307,7 +3307,7 @@ Yes.
 **Intent:** Convert real estate agents and brokerages
 
 **Meta Title:** Phone Numbers for Real Estate Agents | Twiching
-**Meta Description:** Second phone numbers for listings. Keep personal mobile private. Starter from $9.99.
+**Meta Description:** Second phone numbers for listings. Keep personal mobile private. 14-day free trial.
 
 ---
 
@@ -3315,7 +3315,7 @@ Yes.
 ## List publicly. Keep your personal number private.
 
 **Sub-headline:**
-*Second phone numbers and local virtual lines for real estate agents. From $9.99.*
+*Second phone numbers and local virtual lines for real estate agents. *
 
 **Trust bar:**
 SECOND NUMBERS · LOCAL PRESENCE · NO PERSONAL EXPOSURE
@@ -3449,7 +3449,7 @@ Businesses of any size that need professional communications — from solo freel
 Primary market is domestic. Also available in 190+ countries for cross-border operations.
 
 **Q: How do I get started?**
-Pick a plan, start a 14-day free trial, complete KYC to activate calling and SMS.
+Pick a plan, start a 14-day free trial, complete compliance to activate calling and SMS.
 
 ---
 
@@ -3481,7 +3481,7 @@ The 14-day free trial is available on all plans (Starter, Professional, Enterpri
 
 **Trial restrictions:**
 - No external calls or SMS during the trial period
-- To activate calling and SMS, KYC (Know Your Customer) verification must be completed
+- To activate calling and SMS, compliance (Know Your Customer) verification must be completed
 - Credit card required at sign-up
 - After 14 days, account automatically converts to the paid plan selected at trial start
 - Users may cancel renewal before trial ends — cancelled accounts are redirected to the plans page
@@ -3491,7 +3491,7 @@ The 14-day free trial is available on all plans (Starter, Professional, Enterpri
 
 **Starter Plan — Domestic Calling Minutes**
 
-The Starter plan ($9.99/user/month) includes up to **5,000 calling minutes per month** for domestic (USA) calling.
+The Starter plan () includes up to **5,000 calling minutes per month** for domestic (USA) calling.
 
 **This allowance applies to:**
 - Domestic inbound calls received on a USA virtual or local number
@@ -3515,8 +3515,8 @@ The 5,000-minute allowance applies per user seat. A 5-user Starter account has a
 
 **Professional & Enterprise Plans**
 
-- **Professional ($19.99/user/month)** — unlimited US/Canada calling
-- **Enterprise ($29.99/user/month)** — unlimited US/Canada calling
+- **Professional ()** — unlimited US/Canada calling
+- **Enterprise ()** — unlimited US/Canada calling
 
 International calling billed separately on all plans.
 
@@ -3526,18 +3526,18 @@ International calling billed separately on all plans.
 
 At typical retail VoIP rates of $0.01–$0.025/minute, 5,000 minutes would cost **$50–$125/month** in usage fees alone.
 
-The Starter plan includes these minutes at **$9.99/month total** — a potential saving of **$40–$115/month** on calling costs before accounting for number provisioning, SMS, or omnichannel features.
+The Starter plan includes these minutes at **[see pricing]/month total** — a potential saving of **$40–$115/month** on calling costs before accounting for number provisioning, SMS, or omnichannel features.
 
-For Professional ($19.99) and Enterprise ($29.99) plans with unlimited calling, the savings scale with your call volume.
+For Professional plan and Enterprise plan plans with unlimited calling, the savings scale with your call volume.
 
 ---
 
 **Compliance**
 
 All plans include:
-- STIR/SHAKEN attestation on outbound calls
+- STIR/SHAKaEN attestation on outbound calls
 - HIPAA-aligned infrastructure (BAA available on request)
-- KYC verification required to activate calling and SMS
+- compliance verification required to activate calling and SMS
 - TCR/10DLC registration handled for business SMS
 - Government fees passed through at cost (no markup)
 
